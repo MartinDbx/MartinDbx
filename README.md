@@ -1,6 +1,5 @@
-### Hello there, I'm Martin 👋
+### Hello there, I'm [Martin!](https://github.com/MartinDbx) 👋
 
-### Connect with me:
 <a href="https://martin-dbx.webflow.io">
   <img align="left" alt="MARTIN DBX" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a />
@@ -10,17 +9,7 @@
 <a href="https://twitter.com/DbxMartin">
   <img align="left" alt="DbxMartin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <a />
-<!--
-**MartinDbx/MartinDbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.ac.be/fr/). 
