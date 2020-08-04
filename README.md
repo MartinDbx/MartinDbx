@@ -21,5 +21,5 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <!--Python-->
 <img align="left" alt="Python" width="26px" src="python.png" />
 <img align="left" alt="Java" width="26px" src="java.png" />
-<img align="left" alt="MySQL" width="26px" src="mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="mysql-2.png" />
 <img align="left" alt="Racket" width="26px" src="racket.png" />
