@@ -20,6 +20,6 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <br />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="26">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="26">
-<img width="26px" src="mysql.jpg" >
+<img align="left" alt="MySQL" width="26px" src="mysql.jpg">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/mysql/mysql.png" height="26">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="26">
