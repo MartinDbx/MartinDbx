@@ -19,7 +19,7 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 **Initiated to languages :**
 <br />
 <!--Python-->
-<img align="left" alt="Python" width="26px" src="MartinDbx/python.png" />
-<img align="left" alt="Java" width="26px" src="MartinDbx/java.png" />
-<img align="left" alt="MySQL" width="26px" src="MartinDbx/mysql.png" />
-<img align="left" alt="Racket" width="26px" src="MartinDbx/racket.png" />
+<img align="left" alt="Python" width="26px" src="python.png" />
+<img align="left" alt="Java" width="26px" src="Mjava.png" />
+<img align="left" alt="MySQL" width="26px" src="mysql.png" />
+<img align="left" alt="Racket" width="26px" src="racket.png" />
