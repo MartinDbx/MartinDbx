@@ -18,9 +18,9 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 
 **Initiated to languages :**
 <br />
-<!--Python-->
-![Python](python.png)
 <img align="left" alt="Python" width="26px" src="python.png" />
 <img align="left" alt="Java" width="26px" src="java.png" />
 <img align="left" alt="MySQL" width="26px" src="mysql-2.png" />
 <img align="left" alt="Racket" width="26px" src="racket.png" />
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
