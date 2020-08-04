@@ -18,6 +18,8 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 
 **Initiated to languages :**
 <br />
+<img align="left" alt="Java" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/java.png" />
+<br />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="26">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="26">
 <img align="left" alt="MySQL" width="26px" src="mysql.jpg">
