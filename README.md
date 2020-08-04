@@ -1,7 +1,12 @@
 ### Hello there, I'm Martin 👋
 
 ### Connect with me:
-<a href="https://www.instagram.com/martin.dbx/" target="_blank"> <img align="left" alt="martin.dbx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <a />
+<a href="https://martin-dbx.webflow.io">
+  <img align="left" alt="MARTIN DBX" width="22px" src="https://raw.githubusercontent.com.iconic/open-iconic/master/svg/globe.svg" />
+<a />
+<a href="https://www.instagram.com/martin.dbx/">
+  <img align="left" alt="martin.dbx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
+<a />
 
 <!--
 **MartinDbx/MartinDbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
