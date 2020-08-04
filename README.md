@@ -7,7 +7,9 @@
 <a href="https://www.instagram.com/martin.dbx/">
   <img align="left" alt="martin.dbx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
 <a />
-
+<a href="https://twitter.com/DbxMartin">
+  <img align="left" alt="DbxMartin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a />
 <!--
 **MartinDbx/MartinDbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
