@@ -22,4 +22,8 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <img align="left" alt="Python" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/python.png" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/mysql.png" />
 <img align="left" alt="Racket" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/racket.png" />
+<img align="left" alt="Ladder Diagram" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/lad.png" />
+<img align="left" alt="Function Block Diagram" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/fbd.png" />
+<img align="left" alt="Graphe Fonctionnel de Commande des Étapes et Transitions" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/grafcet.png" />
+
 
