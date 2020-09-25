@@ -26,6 +26,6 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <img align="left" alt="Ladder Diagram" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/lad.png" />
 <img align="left" alt="Function Block Diagram" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/fbd.png" />
 <img align="left" alt="Graphe Fonctionnel de Commande des Étapes et Transitions" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/grafcet.png" />
-\
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinDbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
