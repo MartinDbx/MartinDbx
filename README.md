@@ -29,3 +29,4 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinDbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
