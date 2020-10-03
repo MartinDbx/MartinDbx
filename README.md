@@ -18,15 +18,15 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 
 **Initiated to languages :**
 
-<img align="left" alt="Java" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/java.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/python.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/mysql.png" />
-<img align="left" alt="Racket" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/racket.png" />
-<img align="left" alt="MIPS" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/mips.png" />
-<img align="left" alt="Ladder Diagram" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/lad.png" />
-<img align="left" alt="Function Block Diagram" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/fbd.png" />
-<img align="left" alt="Graphe Fonctionnel de Commande des Étapes et Transitions" width="26px" src="https://github.com/MartinDbx/MartinDbx/blob/master/grafcet.png" />  
-<br />  
+<img align="left" alt="Java" width="26px" src="resources/java.png" />
+<img align="left" alt="Python" width="26px" src="resources/python.png" />
+<img align="left" alt="MySQL" width="26px" src="resources/mysql.png" />
+<img align="left" alt="Racket" width="26px" src="resources/racket.png" />
+<img align="left" alt="MIPS" width="26px" src="resources/mips.png" />
+<img align="left" alt="Ladder Diagram" width="26px" src="resources/lad.png" />
+<img align="left" alt="Function Block Diagram" width="26px" src="resources/fbd.png" />
+<img align="left" alt="Graphe Fonctionnel de Commande des Étapes et Transitions" width="26px" src="resources/grafcet.png" />
 <br />
-  
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinDbx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
