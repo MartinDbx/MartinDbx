@@ -35,8 +35,8 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <img alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
 &nbsp;
 <img alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-
 </div>
+</br >
 But also to Racket, MIPS, LAD, FBD and GRAFCET.
 
 <br />
