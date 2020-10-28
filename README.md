@@ -30,11 +30,13 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 <div align="center">
 <img alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 &nbsp;
+<img alt="LaTeX" width="26px" src="https://simpleicons.org/icons/latex.svg">
+&nbsp;
 <img alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
 &nbsp;
 <img alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg">
 &nbsp;
-<img alt="LaTeX" width="26px" src="https://simpleicons.org/icons/latex.svg">
+<img alt="Racket" width="26px" src="resources/racket.png" />
 &nbsp;
 <img alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
 </div>
