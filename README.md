@@ -23,7 +23,7 @@
 
 I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.ac.be/fr/). Follow me on Twitter to be aware of my latest announcements.
 
-🌱 I’m currently learning C, HTML and CSS.
+🌱 I’m currently learning HTML and CSS.
 </br >
 
 **Initiated to languages :**
