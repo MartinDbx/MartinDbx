@@ -34,6 +34,8 @@ I'm a mathematics student at the University of Mons [(UMONS)](https://web.umons.
 &nbsp;
 <img alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
 &nbsp;
+<img alt="C" width="26px" src="https://simpleicons.org/icons/c.svg">
+&nbsp;
 <img alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg">
 &nbsp;
 <img alt="Racket" width="26px" src="resources/racket.png" />
